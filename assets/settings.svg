@@ -1,0 +1,10 @@
+--2022-06-21 16:54:12--  https://fonts.gstatic.com/s/i/materialiconsoutlined/settings/v19/24px.svg
+Connecting to 172.16.20.90:8080... connected.
+Proxy request sent, awaiting response... 200 OK
+Length: 1443 (1.4K) [image/svg+xml]
+Saving to: ‘24px.svg’
+
+     0K .                                                     100% 40.8M=0s
+
+2022-06-21 16:54:12 (40.8 MB/s) - ‘24px.svg’ saved [1443/1443]
+
