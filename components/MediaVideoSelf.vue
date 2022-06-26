@@ -8,15 +8,15 @@ const testStream=(stream)=>{
 
 </script>
 <template>
-<div>
+<i-card class="videocard " >
+
         <video @click="testStream(selfStream)"
           ref="selfStreamVideo"
-          width="300"
-          height="300"
+          style="object-fit: contain;width: 100%    !important; height: 100%   !important;"
           autoplay="autoplay"
           muted="muted"
           :srcObject="selfStream"
         ></video>
         
-        </div>
+        </i-card>
 </template>
